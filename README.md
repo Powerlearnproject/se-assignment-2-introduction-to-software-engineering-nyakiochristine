@@ -6,12 +6,21 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering: the process of designing, developing, testing, and maintaining software applications to solve real-world problems. Key aspects of software engineering include:
+Modularity: Breaking software into smaller, reusable components that can be developed and tested independently
+Abstraction: Hiding implementation details and exposing only necessary functionality to other parts of the software
+Encapsulation: Wrapping data and functions into single units and protecting internal state from external modification
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+Traditional Programming: Primarily focuses on writing code to solve a specific problem. The programmer's scope is limited to the code itself, while Software Engineering encompasses the entire software development life cycle, from design to deployment, and involves a broader range of responsibilities
 
-Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+Traditional programming requires a strong understanding of algorithms, data structures, and programming languages. The programmer's focus is on writing efficient and clean code while software Engineering is not  concerned with  programming skills, software engineers need to have a deep understanding of software design, architecture, testing, and project management
+Software Development Life Cycle (SDLC): 
+SDLC stands for Software Development Life Cycle. It is a structured process used by the software industry to design, develop, test, and maintain high-quality software.
+Planning and Requirement Analysis:
+This stage involves planning the project, gathering requirements from customers, sales departments, market surveys, and domain experts. It includes identifying risks and defining the technical approaches to implement the project successfully.
+
+
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
@@ -22,6 +31,7 @@ Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
+Unit testing is a software testing method where individual components of the software are tested independently to verify each part functions correctly. 
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Version Control Systems:
